@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633296382214",
+    "project_id": "auth-firebase-flutter-yota",
+    "storage_bucket": "auth-firebase-flutter-yota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633296382214:android:76c3ab92545444d6c3d687",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIsWUdLp0P6qHGagiQxbArh8dhLC-YmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
